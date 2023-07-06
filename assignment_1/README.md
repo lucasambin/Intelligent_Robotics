@@ -21,6 +21,6 @@ Then we follow the guide step-by-step:
 - Start the action client (cmd console 4): 	$> rosrun assignment_1_group_27 client_node 10.95 0.15 0 0 0 -0.26 1
 
 The other pose tested in the video:
-$> rosrun assignment_1_group_27 client_node 11.81 1.03 0 0 0 -0.16 1
-$> rosrun assignment_1_group_27 client_node 11.21 -1.03 0 0 0 -0.35 1
-$> rosrun assignment_1_group_27 client_node 11.21 -1.03 0 0 0 -0.16 1
+- $> rosrun assignment_1_group_27 client_node 11.81 1.03 0 0 0 -0.16 1
+- $> rosrun assignment_1_group_27 client_node 11.21 -1.03 0 0 0 -0.35 1
+- $> rosrun assignment_1_group_27 client_node 11.21 -1.03 0 0 0 -0.16 1
