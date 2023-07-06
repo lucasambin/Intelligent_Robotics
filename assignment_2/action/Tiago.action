@@ -1,0 +1,9 @@
+#goal
+geometry_msgs/Pose pose_B
+bool detection
+---
+#result
+geometry_msgs/Point[] obstacle
+---
+#feedback
+string status

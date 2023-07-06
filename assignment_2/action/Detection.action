@@ -1,0 +1,15 @@
+#goal
+int32 marker_ID
+float32 head_1_joint
+float32 head_2_joint
+---
+#result
+geometry_msgs/Pose marker_pose
+int32 marker_ID
+float32 marker_size
+geometry_msgs/Pose[] obs_pose
+int32[] obs_ID
+float32[] obs_size
+---
+#feedback
+string status

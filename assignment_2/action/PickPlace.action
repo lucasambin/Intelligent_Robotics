@@ -1,0 +1,17 @@
+#goal
+bool pick
+bool place
+int32 marker_ID
+geometry_msgs/Pose marker_pose
+float32 marker_size
+geometry_msgs/Pose[] obs_pose
+int32[] obs_ID
+float32[] obs_size
+geometry_msgs/Point cylinder_place_point
+float32 z_object_place_contact_point
+---
+#result
+float32 z_object_pick_contact_point
+---
+#feedback
+string status
